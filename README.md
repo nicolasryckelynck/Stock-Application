@@ -1,8 +1,13 @@
 # Stock-Application
 
 ## Description
+
 Cette application mobile développée en React Native permet à une entreprise de gérer son stock de manière efficace.
 Elle offre des fonctionnalités telles que la gestion de stock de produit spécifiques, ainsi que la rentrée de stock.
+
+## Technologies utilisées
+
+Pour réaliser ce projet, j'ai pu utiliser React native avec Expo, permettant l'ensemble de tests et du développement de l'application mobile.
 
 ## Fonctionnalités
 
