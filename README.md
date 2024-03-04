@@ -23,5 +23,4 @@ Ce projet est sous licence [GNU General Public License v3.0](LICENSE).
 ---
 Développé avec ❤️ par [Nicolas RYCKELYNCK](https://github.com/nicolasryckelynck)
 
--- 
 Si vous souhaitez me contacter, je suis disponible par mail: nicolasrck@outlook.fr
