@@ -6,7 +6,6 @@ export const abortEanChange = (productData, tmpEAN) => {
     "Confirmation",
     "Êtes-vous sûr de vouloir annuler la mise à jours du code EAN ?",
     () => {
-      console.log("EAN: ", tmpEAN);
       updateEan({
         productData1: productData,
         textEan: tmpEAN,

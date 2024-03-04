@@ -27,12 +27,10 @@ export default function ModalStock({
   const [selectedDate, setSelectedDate] = useState(null);
 
   const handleDateChange = (date) => {
-    console.log("TEST");
     setSelectedDate(new Date(date));
   };
 
   useEffect(() => {
-    console.log("test");
     setStockValue(productData1["Quantity"]);
   }, []);
 
